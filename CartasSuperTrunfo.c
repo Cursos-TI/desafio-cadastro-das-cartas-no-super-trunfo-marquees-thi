@@ -7,7 +7,7 @@ int main(){
     char estado_1[1];
     char code_1[4]; // Refere-se ao código das cartas
     char cidade_1[20];
-    int populacao_1;
+    unsigned long int populacao_1;
     float area_1;
     float pib_1;
     int pontos_turisticos_1;
@@ -19,7 +19,7 @@ int main(){
     char estado_2[1];
     char code_2[4];
     char cidade_2[20];
-    int populacao_2;
+    unsigned long int populacao_2;
     float area_2;
     float pib_2;
     int pontos_turisticos_2;
